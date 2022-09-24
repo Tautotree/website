@@ -1,189 +1,55 @@
-# Landing Page Template built with Next JS 12+, Tailwind CSS 3 and TypeScript [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+## Tautotree
 
-<p align="center">
-  <a href="https://creativedesignsguru.com/demo/nextjs-landing-page/"><img src="public/assets/images/nextjs-landing-page-banner.png?raw=true" alt="Next js starter banner"></a>
-</p>
+#### Objective
+Help corporate offices achieve CSR goals by improving tree adoption and urban forestry by gamifying public participation of increasing the green cover of our land.
 
-🚀 Landing Page theme written in Next.js, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.
 
-Clone this project and use it to create your own [Next.js](https://nextjs.org) project. You can check a [Next js templates demo](https://creativedesignsguru.com/demo/nextjs-landing-page/).
+#### Problem
+* Air pollution index in cities are rising at an alarming rate
+* 90% of the world’s population live where air quality levels do not meet WHO standards
+* Planting more trees are more important than ever before
+* Unfortuately planting and maintaining trees are either seen as a chore / luxury
 
-### DEMO
+#### Solution
+* Companies should spend a minimum of 2% of their average net profit for its immediately preceding 3 financial years for CSR
+	* An annual turnover of Rs. 1,000 crore
+	-   Net worth of 500 crore or more
+	-   Net profit of 5 crore or more
+* Gamification - Tree adoption by minting the trees as NFT 
+- Tradable nature of NFT provides opportunity to gamified scarcity
+- Every tree adopted / planted through our platform bears the mark of the CSR footprint - The marketing reach of the corporate bears a physical presence
+- The app shows location of the trees minted as NFT, drives the CSR footprint in the digital / metaspace too
+- The trees minted as NFT - used as wayspots similar to Pokemon Go for a location based real world adventure game
+- Eg. activites the game gives out
+	- Hit 10 trees within a span of 100m and submit a proof that it is hydrated
+	- Mark trees that are wilted out / diseased
+	- Manure a near by tree that is diseased
+- The game is free to play and in-game events will be conducted based on coporate's conditions therby involving their employees in a "plantathon" (planting + marathon)
 
-[![Nextjs Landing Page Template Screenshot](public/assets/images/nextjs-landing-page-screenshot.png?raw=true)](https://creativedesignsguru.com/demo/nextjs-landing-page/)
+#### Revenue Model
+* A portion of 2% of CSR budget that is spent on sustainable development & green cover increase will be given to us & we can take care of the activities like plantation of new trees & adoption of exisiting ones
+* The trees levied upon act as a physical marketing billboards across various places in cities with the tag of the corporate's name
+* The billboards also turn digital in the game with the NFT tree locations available in a map
+* Marketplace of tree NFTs available to be purchased - commision from both buyer & seller side
+* The in-game items give an edge to long term honest playerbase who can have a edge above others.
+	* Eg. Exchange fiat currency / crypto for free NFT slots
+	* Create activity for the community to take care of trees that are farther away
 
-Check out our [live demo](https://creativedesignsguru.com/demo/nextjs-landing-page/).
 
-### Features
+#### Future
+* Tracablity of farm to plate industry with blockchain - commision from orchid owners and investors 
+* Tautotree as a platform will be able to extend to write new applications from the tree data stored in the blockchain
+	* Eg. Bingo like game with NFT Trees in the matrix display
+	* Eg. Supply chain traceability of road side tamarind trees that are leased to particular 3rd party
+* Automation of tree adoption & maintainace throught IOT sprinklers and manure sprayers
+* Marketplace to buy tree adoption related IOT hardware
+* Metaverse of tree NFTs opens roadways to more gaming capability
 
-Developer experience first:
+#### Our efforts
+* We are looking for the long term plan and we have patented our idea & architecture of NFT based Blockchain orchids (Status pending)
+* We are sprinting towards a MVP and also refining ideas further by talking to potential stakeholders and mentors
+* Our vision, mission can be realized only by a strong revenue model and we are open-minded to discuss further & would be amazing if we could collaborate with the Govt. too.
 
-- 🔥 [Next.js](https://nextjs.org) for Static Site Generator
-- 🎨 Integrate with [Tailwind CSS](https://tailwindcss.com)
-- 💅 PostCSS for processing Tailwind CSS and integrated to `styled-jsx`
-- 🎉 Type checking [TypeScript](https://www.typescriptlang.org)
-- ✅ Strict Mode for TypeScript and React 17
-- ✏️ Linter with [ESLint](https://eslint.org) (default NextJS, NextJS Core Web Vitals and Airbnb configuration)
-- 🛠 Code Formatter with [Prettier](https://prettier.io)
-- 🦊 Husky for Git Hooks
-- 🚫 Lint-staged for running linters on Git staged files
-- 🗂 VSCode configuration: Debug, Settings, Tasks and extension for PostCSS, ESLint, Prettier, TypeScript
-- 🤖 SEO metadata, JSON-LD and Open Graph tags with Next SEO
-- ⚙️ [Bundler Analyzer](https://www.npmjs.com/package/@next/bundle-analyzer)
-- 🖱️ One click deployment with Vercel or Netlify (or manual deployment to any hosting services)
-- 🌈 Include a FREE theme
-- 💯 Maximize lighthouse score
 
-Built-in feature from Next.js:
 
-- ☕ Minify HTML & CSS
-- 💨 Live reload
-- ✅ Cache busting
 
-### Included Components
-
-- Navbar
-- Hero
-- Features
-- CTA banner
-- Footer
-
-Find more components in our [premium NextJS themes](https://creativedesignsguru.com/category/nextjs/).
-
-### Philosophy
-
-- Minimal code
-- SEO-friendly
-- 🚀 Production-ready
-
-### Nextless.js SaaS Boilerplate
-
-Build your SaaS product faster with [React SaaS Boilerplate](https://nextlessjs.com).
-
-[![React SaaS Boilerplate Next.js](https://creativedesignsguru.com/assets/images/themes/next-js-saas-starter-kit.jpg)](https://nextlessjs.com)
-
-### Premium Themes
-
-| [Green Nextjs Landing Page Template](https://creativedesignsguru.com/landing-green-modern-nextjs-theme/) | [Purple Saas Nextjs Theme](https://creativedesignsguru.com/landing-purple-modern-react-theme/) |
-| --- | --- |
-| [![Green Nextjs Landing Page Template](https://creativedesignsguru.com/assets/images/themes/landing-green-modern-nextjs-theme-xs.png)](https://creativedesignsguru.com/landing-green-modern-nextjs-theme/) | [![Blue Landing Page Nextjs Theme](https://creativedesignsguru.com/assets/images/themes/landing-blue-modern-nextjs-theme-xs.png)](https://creativedesignsguru.com/landing-blue-modern-react-theme/) |
-
-Find more [Nextjs Templates](https://creativedesignsguru.com/category/nextjs/).
-
-### Requirements
-
-- Node.js and npm
-
-### Getting started
-
-Run the following command on your local environment:
-
-```
-git clone --depth=1 https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template.git my-project-name
-cd my-project-name
-npm install
-```
-
-Then, you can run locally in development mode with live reload:
-
-```
-npm run dev
-```
-
-Open http://localhost:3000 with your favorite browser to see your project. For your information, Next JS need to take some time to compile the project for your first time.
-
-```
-.
-├── README.md            # README file
-├── next.config.js       # Next JS configuration
-├── public               # Public folder
-│   └── assets
-│       └── images       # Image used by default template
-├── src
-│   ├── background       # Atomic background component
-│   ├── button           # Atomic button component
-│   ├── cta              # Atomic cta component
-│   ├── feature          # Atomic feature component
-│   ├── footer           # Atomic footer component
-│   ├── hero             # Atomic hero component
-│   ├── layout           # Atomic layout component
-│   ├── navigation       # Atomic navigation component
-│   ├── pages            # Next JS pages
-│   ├── styles           # PostCSS style folder with Tailwind
-│   ├── templates        # Default template
-│   └── utils            # Utility folder
-├── tailwind.config.js   # Tailwind CSS configuration
-└── tsconfig.json        # TypeScript configuration
-```
-
-### Customization
-
-You can easily configure the theme. Please change the following file:
-
-- `public/apple-touch-icon.png`, `public/favicon.ico`, `public/favicon-16x16.png` and `public/favicon-32x32.png`: your favicon, you can generate from https://favicon.io/favicon-converter/
-- `src/styles/global.css`: your CSS file using Tailwind CSS
-- `utils/AppConfig.ts`: configuration file
-- `src/pages/index.tsx`: the index page of the theme that uses the `Base` component
-- `src/template/Base.tsx`: the `Base` component using component blocks
-- `src/templates/*`: the list of component blocks
-- `src/*`: other folders in src are the atomic components used by components blocks
-
-Here is the layer:
-
-- the entry point: `index.tsx` in `src/pages`
-- the `Base` template: `Base.tsx` in `src/templates`
-- use component blocks from `src/templates/*`
-- use atomic components from `src/*`
-
-### Deploy to production
-
-You can see the results locally in production mode with:
-
-```
-$ npm run build
-$ npm run start
-```
-
-The generated HTML and CSS files are minified (built-in feature from Next js). It will also removed unused CSS from [Tailwind CSS](https://tailwindcss.com).
-
-You can create an optimized production build with:
-
-```
-npm run build-prod
-```
-
-Now, your theme is ready to be deployed. All generated files are located at `out` folder, which you can deploy with any hosting service.
-
-### Deploy to Netlify
-
-Clone this repository on own GitHub account and deploy to Netlify:
-
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template)
-
-### Deploy to Vercel
-
-Deploy this Next JS Boilerplate on Vercel in one click:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fixartz%2FNext-JS-Landing-Page-Starter-Template)
-
-### VSCode information (optional)
-
-If you are VSCode users, you can have a better integration with VSCode by installing the suggested extension in `.vscode/extension.json`. The starter code comes up with Settings for a seamless integration with VSCode. The Debug configuration is also provided for frontend and backend debugging experience.
-
-Pro tips: if you need a project wide type checking with TypeScript, you can run a build with <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> on Mac.
-
-### Contributions
-
-Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
-
-### License
-
-Licensed under the MIT License, Copyright © 2022
-
-See [LICENSE](LICENSE) for more information.
-
----
-
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
-
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/ixartz)
