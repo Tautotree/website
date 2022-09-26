@@ -12,7 +12,7 @@ const Logo = (props: ILogoProps) => {
 
   return (
     <span className={`text-gray-900 inline-flex items-center ${fontStyle}`}>
-      <svg style={{width: 40, fill: 'green'}} id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+      <svg style={{width: 40, fill: 'green'}} id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
         <path 
           d="M612.72,494.86v-208.05c0-27.12-14.47-52.18-37.95-65.74l-180.18-104.03c-23.49-13.56-52.42-13.56-75.91,0l-180.18,104.03c-23.49,13.56-37.95,38.62-37.95,65.74v208.05c0,27.12,14.47,52.18,37.95,65.74l180.18,104.03c23.49,13.56,52.42,13.56,75.91,0l180.18-104.03c23.49-13.56,37.95-38.62,37.95-65.74Z" />
         <path 
